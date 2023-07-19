@@ -2,7 +2,7 @@
 **`Blending Innovative Design with Robust Software Engineering`**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">stuff I use:</h3>
 
 
 <p align="center"> 

@@ -48,4 +48,6 @@
 #
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaythestampede&" alt="jaythestampede" /></p>
+---
+
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaythestampede&" alt="jaythestampede" /></p>

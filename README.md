@@ -1,7 +1,7 @@
 <h1 align="center"> I'm James</h1>
 **`Blending Innovative Design with Robust Software Engineering`**
 
-### <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 
 <p align="left"> 
@@ -43,11 +43,11 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="left" alt="unity" width="40px" height="40" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" /> </a> 
   
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img align="left" alt="unreal" width="40px" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" /> </a> 
+  
+  </p>
 
   <br/>
   
-  ###
-  
-  </p>
+###
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaythestampede&" alt="jaythestampede" /></p>

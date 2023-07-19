@@ -52,4 +52,4 @@
 
 
 
-<p align="center" ><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaythestampede&theme=icegray&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jaythestampede&theme=icegray&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)" /></p>

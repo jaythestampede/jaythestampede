@@ -1,6 +1,8 @@
 # James B.
 **`Blending Innovative Design with Robust Software Engineering`**
 
+With a high level of proficiency in 3D design and a comprehensive understanding of cybersecurity and technology, I am driven by a deep passion for development and software engineering, where I currently leverage my coding skills as a creative medium to bring my artistic vision to life. Feel free to reach out with any questions or opportunities for collaboration!
+
 
 <h3 align="left">stuff I use:</h3>
 

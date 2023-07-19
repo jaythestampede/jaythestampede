@@ -17,15 +17,11 @@
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img align="left" alt="exoress" width="40px" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /> </a> 
   
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="left" alt="git" width="40px" height="40" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> </a> 
-  
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img align="left" alt="heroku" width="40px" height="40" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/> </a> 
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="left" alt="html5" width="40px" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/> </a> 
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" alt="javascript" width="40px" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> </a> 
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="left" alt="linux" width="40px" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> </a> 
   
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img align="left" alt="mongodb" width="40px" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/> </a> 
   

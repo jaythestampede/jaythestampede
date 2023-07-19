@@ -1,10 +1,11 @@
-<h1 align="center"> I'm James</h1>
+# James B.
 **`Blending Innovative Design with Robust Software Engineering`**
+
 
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p align="left"> 
+<p align="center"> 
   
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img align="left" alt="blender" width="40px" height="40" style="padding-right:10px;" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" /> </a> 
   

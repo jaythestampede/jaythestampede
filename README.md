@@ -9,7 +9,7 @@ With a high level of proficiency in 3D design and a comprehensive understanding 
 
 <p align="center"> 
 
-[![Blender Badge](https://img.shields.io/badge/blender-blue?logo=blender)] [![Unreal Badge](https://img.shields.io/badge/unreal-%230E1128?logo=unrealengine)]
+[![Blender Badge](https://img.shields.io/badge/blender-blue?logo=blender)] (#) [![Unreal Badge](https://img.shields.io/badge/unreal-%230E1128?logo=unrealengine)]
 
 
   

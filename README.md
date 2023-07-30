@@ -19,7 +19,6 @@ With a high level of proficiency in 3D design and a comprehensive understanding 
 
 #
 
-  <br/>
 <p>
   
 [![C++ Badge](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=cplusplus&link=https%3A%2F%2Fwww.w3schools.com%2Fcpp%2F)](#)

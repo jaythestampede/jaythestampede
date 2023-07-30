@@ -16,7 +16,10 @@ With a high level of proficiency in 3D design and a comprehensive understanding 
 [![Python Badge](https://img.shields.io/badge/Python-%231E365C?style=for-the-badge&logo=python&link=https%3A%2F%2Fwww.python.org%2F)](#)
 
 </p>
+
+###
 ---
+
   <br/>
 <p>
   

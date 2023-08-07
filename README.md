@@ -37,5 +37,5 @@ With a high level of proficiency in 3D design and a comprehensive understanding 
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaythestampede&&theme=icegray&hide_border=true&date_format=%5BY.%5Dn.j" alt="jaythestampede" /></p>
+<p align="center"><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaythestampede&theme=city-lights)](https://git.io/streak-stats) alt="jaythestampede" /></p>
 

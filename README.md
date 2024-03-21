@@ -34,8 +34,3 @@ i have a high level of proficiency in 3D design and a comprehensive understandin
 
 #
 ###
-
----
- <p align='center'> 
-   (https://streak-stats.demolab.com?user=jaythestampede&theme=react)](https://git.io/streak-stats)
- </p>
